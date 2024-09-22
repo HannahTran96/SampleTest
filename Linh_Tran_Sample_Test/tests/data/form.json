@@ -1,0 +1,42 @@
+{
+    "positive": [
+        {
+            "email": "linhtt@gmail.com",
+            "firstName": "linhtt@gmail.com",
+            "lastName": "linhtt@gmail.com",
+            "services": "Printing",
+            "association": "Prospect",
+            "hear": "Search engines",
+            "message": "infoSource' is required"
+        },
+        {
+            "email": "linhtt@gmail.com",
+            "firstName": "linhtt@gmail.com",
+            "lastName": "linhtt@gmail.com",
+            "services": "Logistics",
+            "association": "Partner",
+            "hear": "Recommended by friend",
+            "message": "infoSource' is required"
+        }
+    ],
+    "negative": [
+        {
+            "email": "linhtt@gmail.com",
+            "firstName": "linhtt@gmail.com",
+            "lastName": "linhtt@gmail.com",
+            "services": "Printing",
+            "association": "Prospect",
+            "hear": "",
+            "message": "infoSource' is required"
+        },
+        {
+            "email": "",
+            "firstName": "linhtt@gmail.com",
+            "lastName": "linhtt@gmail.com",
+            "services": "Printing",
+            "association": "Prospect",
+            "hear": "",
+            "message": "'email' is required"
+        }
+    ]
+}
